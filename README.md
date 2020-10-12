@@ -1,11 +1,17 @@
-# [[course title]]
+# Introduction to the Unix Shell
 
 ## Description
 
-Description: This [[# classes]] course is designed to introduce attendees to [[main objectives]]
-Each [[length of session]] class meeting will include brief tutorials interspersed with challenge exercises, and assumes [[prerequisites]]. At the end of this course, you will be able to [[main deliverables]].
+This four class course is designed to introduce attendees to fundamental Unix commands and shell scripting.
+Each class includes brief tutorials interspersed with challenge exercises, and assumes no prior computing experience. 
+At the end of this course, you will be able to use Unix commands to work with and navigate files and directories, 
+combine commands using pipes, 
+create basic shell scripts,
+and search files and their contents.
 
-[[links to other materials that have been adapted in this lesson]]
+This repository is adapted from content originally appearing in [The Unix Shell](http://swcarpentry.github.io/shell-novice/), 
+Copyright (c) Software Carpentry. 
+See links at the bottom of each lesson for specific episodes from Carpentries material that have been modified.
 
 Software requirements for this course can be found on [fredhutch.io's Software page](http://www.fredhutch.io/software/).
 

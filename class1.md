@@ -1,31 +1,30 @@
-#### [[course and class]] ####
+# Introduction to the Unix Shell
+# Class 1: Introduction to shell commands
 
-#### Before class ####
+## Objectives
 
-# share URL to hack.md
-# check software installation
+Welcome to Introduction to the Unix Shell from fredhutch.io! 
+This course introduces you to basic tasks using the Unix shell,
+and is a pre-requisite for our HPC courses 
+for both on-premise clusters and cloud computing.
 
-#### Welcome ####
+Check software installation
 
-# instructor introduction
-# overview of fredhutch.io
-# sign in
-# learner introductions and motivation
-# overview course philosophy, how to stay engaged
-# course objectives:
-
-#### Objectives ####
-
-# Today:
-#
-
-#### Subheading ####
+Objectives:
+- viewing files and directories
+- navigating paths
+- create, copy, move, and edit files
+- pipes and filters
 
 
-#### Wrapping up ####
 
-# make sure work is saved
-# review how to get back into work
-# review objectives
-# preview next class's objectives
-# remind to sign in
+
+## Wrapping up
+
+make sure work is saved
+
+review how to get back into work
+
+review objectives
+
+preview next class's objectives

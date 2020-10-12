@@ -1,15 +1,19 @@
-#### [[course and class]] ####
+# Introduction to the Unix Shell
+# Class 3: 
 
-#### Objectives ####
+## Objectives
 
-# review previous class's objectives
-# Today:
-#
-
-#### Subheading ####
+- improving shell scripts
+- finding things
 
 
-#### Wrapping up ####
 
-# review objectives
-# preview next class's objectives
+## Wrapping up
+
+make sure work is saved
+
+review how to get back into work
+
+review objectives
+
+preview next class's objectives

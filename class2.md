@@ -1,15 +1,20 @@
-#### [[course and class]] ####
+# Introduction to the Unix Shell
+# Class 2: Repeating commands
 
-#### Objectives ####
+## Objectives
 
-# review previous class's objectives
-# Today:
-#
+- loops
+- editing files in the shell
+- shell scripts
+- history
 
-#### Subheading ####
 
+## Wrapping up
 
-#### Wrapping up ####
+make sure work is saved
 
-# review objectives
-# preview next class's objectives
+review how to get back into work
+
+review objectives
+
+preview next class's objectives
