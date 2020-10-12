@@ -5,15 +5,10 @@
 
 - improving shell scripts
 - finding things
+- configuring the shell
 
 
 
 ## Wrapping up
 
-make sure work is saved
-
-review how to get back into work
-
 review objectives
-
-preview next class's objectives
