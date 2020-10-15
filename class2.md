@@ -4,7 +4,6 @@
 ## Objectives
 
 - loops
-- editing files in the shell
 - shell scripts
 - history
 
