@@ -9,11 +9,13 @@ combine commands using pipes,
 create basic shell scripts,
 and search files and their contents.
 
-This repository is adapted from content originally appearing in [The Unix Shell](http://swcarpentry.github.io/shell-novice/), 
-Copyright (c) Software Carpentry. 
-See links at the bottom of each lesson for specific episodes from Carpentries material that have been modified.
+A solid understanding of these basic principles is required to succeed in our intermediate high performance computing (HPC) courses for both the on-premise clusters and [cloud computing](https://github.com/fredhutchio/hpc_cloud).
 
-Software requirements for this course can be found on [fredhutch.io's Software page](http://www.fredhutch.io/software/).
+This repository is adapted from content originally appearing in [The Unix Shell](http://swcarpentry.github.io/shell-novice/), 
+Copyright (c) Software Carpentry,
+as well as the Unix chapters of [Research Software Engineering with Python](https://merely-useful.github.io/py-rse/index.html).
+
+Software requirements to participate in this course can be found on [fredhutch.io's Software page](http://www.fredhutch.io/software/).
 
 
 ## Schedule
