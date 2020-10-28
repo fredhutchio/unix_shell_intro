@@ -59,12 +59,12 @@ Download project:
 
 On Linux:
 ```
-wget https://github.com/fredhutchio/unix_shell_intro/raw/master/example_unix_project.zip
+wget https://raw.githubusercontent.com/fredhutchio/unix_shell_intro/master/example_unix_project.zip
 ```
 
 On Mac:
 ```
-curl https://github.com/fredhutchio/unix_shell_intro/raw/master/example_unix_project.zip -o example_unix_project.zip
+curl https://raw.githubusercontent.com/fredhutchio/unix_shell_intro/master/example_unix_project.zip -o example_unix_project.zip
 ```
 
 Unzip project:
