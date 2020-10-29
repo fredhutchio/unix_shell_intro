@@ -28,6 +28,10 @@ GUIs vs CLIs
 
 command prompt
 
+> zsh vs bash
+> https://stackabuse.com/zsh-vs-bash/
+> https://www.howtogeek.com/362409/what-is-zsh-and-why-should-you-use-it-instead-of-bash/
+
 bash vs zsh
 
 First command: username?

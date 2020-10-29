@@ -4,8 +4,11 @@
 ## Objectives
 
 - improving shell scripts
-- finding things
+- environmental variables
 - customizing the shell
+- awk
+- sed
+- square brackets vs double square brackets
 
 ## Wrapping up
 

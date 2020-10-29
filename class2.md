@@ -3,6 +3,8 @@
 
 ## Objectives
 
+- finding things
+- subshells (vs back ticks)
 - loops
 - shell scripts
 - history
