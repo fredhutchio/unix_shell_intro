@@ -1,0 +1,29 @@
+Title: Draft of my brilliant manuscript
+
+Abstract
+
+Introduction
+- set the stage: general overview of main topic
+- specific reference to topic of this manuscript
+- description of why this is interesting
+- introduce hypothesis
+- summarize experimental method, including predictions based on hypothesis
+
+Methods
+- sampling strategy
+- experimental vs control treatments
+- variables measured
+- data analysis
+
+Results
+- overview and summary of data collected 
+- figures and tables
+
+Conclusions
+- relate results to hypothesis
+- future areas of research
+
+Acknowledgements
+
+
+Literature Cited 
