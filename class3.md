@@ -3,9 +3,9 @@
 
 ## Objectives
 
-- improving shell scripts
-- environmental variables
-- customizing the shell
+- environment variables
+- customizing the shell (paths)
+- installing command line progams
 - awk
 - sed
 - square brackets vs double square brackets

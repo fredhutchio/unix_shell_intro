@@ -33,7 +33,7 @@
 * correct way: `find . -name '*.csv'`
 * find similar to list, but has more refined parameter searching
 * can combine together: count all lines in a group of files
-  * `wc -l $(find . -name '*.txt')`
+  * `wc -l $(find . -name '*.csv')`
   * nesting or subshell
 * equivalent command: `wc -l ./data/BLCA.csv ./data/BRCA.csv ...`
 * can also combine find and grep: 
@@ -98,6 +98,9 @@ done
   * `history | tail -4 > redo-figure.sh`
   * `history | tail -5 | colrm 1 7` (1-7 characters)
 
+Making scripts executable:
+- shebang
+- chmod
 
 ## Wrapping up
 
