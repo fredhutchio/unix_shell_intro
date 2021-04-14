@@ -10,6 +10,9 @@ create basic shell scripts,
 and search files and their contents.
 
 A solid understanding of these basic principles is required to succeed in our intermediate high performance computing (HPC) courses for both the on-premise clusters and [cloud computing](https://github.com/fredhutchio/hpc_cloud).
+Additionally, general Unix skills are a pre-requisite for other intermediate courses,
+like [RNAseq analysis](https://fredhutchio.github.io/rnaseq/skills/).
+Basic pre-requisites for such courses are described in the [Unix Crash Course](crash_course.md).
 
 This repository is adapted from content originally appearing in [The Unix Shell](http://swcarpentry.github.io/shell-novice/), 
 Copyright (c) Software Carpentry,
@@ -20,10 +23,9 @@ Software requirements to participate in this course can be found on [fredhutch.i
 
 ## Schedule
 
-* [Class 1](class1.md): [[title]]
-* [Class 2](class2.md): [[title]]
-* [Class 3](class3.md): [[title]]
-* [Class 4](class4.md): [[title]]
+* [Class 1](class1.md): Introduction to shell commands
+* [Class 2](class2.md): Repeating commands 
+* [Class 3](class3.md): Leveling up your Unix skills
 
 
 ## Resources
